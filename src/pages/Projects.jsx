@@ -1,8 +1,11 @@
 import React from "react"
 import './Projects.css'
+// c1210122
 import ProjectsCard from '../components/Card'
 import Button from "../components/Home-button"
+// Abuubakar Ciise
 import img from '../Assets/restaurant-management-system-main.jpg'
+// c1210122
 
 const Projects = ()=> {
 
