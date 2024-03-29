@@ -1,3 +1,4 @@
+/* C1210122 */
 .container{
     max-width: 90%;
     margin: 0 auto;
@@ -35,7 +36,7 @@
     transform: translate(-50%, -50%);
     animation: moveInCircle 6s linear infinite;
   }
-  
+  /* C1210122 */
 .container img {
     width: 280px;
     height: 280px;
@@ -56,6 +57,7 @@
     background-color: black;
 }
 @media screen and (max-width: 768px) {
+    /* C1210122 */
     .container {
         flex-direction: column-reverse;
         align-items: center;
@@ -71,6 +73,7 @@
     }
     @keyframes moveInCircle {
         0% { transform: rotate(0deg) translateX(80px) rotate(0deg); }
+        /* C1210122 */
         100% { transform: rotate(360deg) translateX(80px) rotate(-360deg); }
       }
 
