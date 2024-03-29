@@ -1,0 +1,44 @@
+.projects-container{
+    /* border: 1px solid black; */
+    max-width: 90%;
+    margin-left: 8%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.projects-cards{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 35px;
+}
+img {
+    width: 200px;
+    border-radius: 10px;
+
+}
+.projects-cardss{
+    margin: 15px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.Projects-button{
+    padding: 15px;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 16px;
+    background-color: rgb(241, 215, 97);
+    border: none;
+    cursor: pointer;
+}
+.Projects-button:hover{
+    color:  rgb(241, 215, 97);
+    background-color: black;
+}
+@media screen and (max-width: 768px) {
+    .projects-cards{
+         text-align: center;
+        margin-left: 5%;
+    }
+}
