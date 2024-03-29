@@ -1,7 +1,10 @@
 import React from "react";
 import { FaPython, FaJava, FaJs, FaHtml5, FaCss3Alt,FaGithub } from 'react-icons/fa';
+// Abuubakar Ciise
 import { DiGit, DiVisualstudio, DiMysql, DiReact, DiNodejs } from 'react-icons/di';
+
 import {SiCsharp} from 'react-icons/si';
+// c1210122
 import './Skills.css'
 import SkillCard from "../components/Card";
 
