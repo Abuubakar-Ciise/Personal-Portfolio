@@ -1,6 +1,8 @@
 import React from "react";
+// Abuubakar Ciise
 import './HomePage.css'
 import Button from "../components/Home-button";
+// c1210122
 import MY from '../Assets/WhatsApp Image 2024-03-23 at 19.16.51_d679109e.jpg'
 
 import {FaStar}  from 'react-icons/fa';
@@ -25,5 +27,4 @@ const Home = ()=>{
         </div>
     )
 }
-
 export default Home
