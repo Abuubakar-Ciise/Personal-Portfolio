@@ -16,8 +16,7 @@ const Home = ()=>{
             <div className="Me">
                 <h1>Hello, I'm Abuubakar</h1>
                 <h2>A Full-Stack developer</h2>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo sint vel voluptatibus, dolores facere excepturi <br /> id sit dolor, quas exercitationem autem provident vero aut, corporis possimus quis in nihil.</p>
-                <button className="Contact">Contact Me</button>
+           <button className="Contact"><a href="#Contact">Contact Me</a></button>
             </div>
             <div className="img">
             <i class="icon"><FaStar size={20} color="white" /></i>
