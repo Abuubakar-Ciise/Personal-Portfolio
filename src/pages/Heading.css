@@ -134,6 +134,7 @@ body {
     }
     .top .header__nav ul {
         gap: 20px;
+        flex-wrap: wrap;
       }
   
     /* .header__nav ul li {
