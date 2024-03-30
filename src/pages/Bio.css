@@ -5,7 +5,7 @@ button{
     padding: 15px;
     font-size: 1rem;
     font-weight: 700;
-    margin: 0px 5px;
+    margin: 5px;
 }
 button:hover{
     color:  rgb(241, 215, 97);
