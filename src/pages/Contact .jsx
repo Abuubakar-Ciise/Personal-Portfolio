@@ -4,7 +4,7 @@ import { AiOutlineWhatsApp, AiFillGithub, AiFillFacebook } from "react-icons/ai"
 
 const Contact = () => {
   return (
-    <div className="contact-container">
+    <div className="contact-container" id="Contact">
       <div className="contact-info">
         <h3>Get in Touch</h3>
         <p>Feel free to send me a message or connect on social media.</p>
