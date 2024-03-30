@@ -11,6 +11,9 @@
     
     /* border: 1px solid black; */
 }
+a{
+  text-decoration: none;
+}
 @keyframes moveInCircle {
     0% { transform: rotate(0deg) translateX(120px) rotate(0deg); }
     100% { transform: rotate(360deg) translateX(120px) rotate(-360deg); }
